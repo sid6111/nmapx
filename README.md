@@ -27,6 +27,6 @@ Raw output is available when you explicitly ask for it.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/nmapx.git
+git clone https://github.com/sid6111/nmapx.git
 cd nmapx
 chmod +x nmapx.sh
