@@ -27,7 +27,7 @@ Raw output is available when you explicitly ask for it.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/sid6111/nmapx.git
+git clone https://github.com/Survivor-sid/nmapx.git
 cd nmapx
 chmod +x nmapx.sh
 ```
